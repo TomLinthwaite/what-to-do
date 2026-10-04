@@ -1,0 +1,13 @@
+{
+  "name": "What to do? — plan your day out",
+  "short_name": "What to do?",
+  "description": "Find things to do nearby and plan your day out.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#4f46e5",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
